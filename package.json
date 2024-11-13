@@ -43,7 +43,7 @@
     "@babel/preset-env": "^7.22",
     "@babel/preset-react": "^7.22.5",
     "@fullhuman/postcss-purgecss": "^4.1",
-    "@hyas/doks": "^0.4",
+    "@thulite/doks-core": "^1.7.0",
     "@popperjs/core": "^2.11.8",
     "auto-changelog": "^2.4.0",
     "autoprefixer": "^10.4.15",

@@ -148,5 +148,5 @@ rel  = "sitemap"
     allow = ['^babel$', '^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']  
     
 [build]
-    timeout = "600s"
+    timeout = "10000s"
 

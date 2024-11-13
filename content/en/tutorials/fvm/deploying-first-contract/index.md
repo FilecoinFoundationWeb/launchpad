@@ -8,11 +8,12 @@ menu:
 weight: 10
 category: tutorial
 ---
-
+<!--
 {{< beforepages text="This tutorial expects you to be familiar with Metamask. You can learn about Metamask in the following tutorials:">}}
   {{< beforepages-element page="/tutorials/metamask-intro/create-wallet" >}}
   {{< beforepages-element page="/tutorials/metamask-intro/switch-networks" >}}
-{{< /beforepages >}}
+ {{< /beforepages >}}
+-->
 
 We're going to be creating an ERC-20 token in this quickstart. The ERC-20 contract is used a lot in representing a massive array of tokens across multiple blockchains, primarily the Ethereum blockchain.
 

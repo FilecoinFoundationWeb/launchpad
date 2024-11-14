@@ -71,6 +71,6 @@
     "tailwindcss": "^3.3.3"
   },
   "otherDependencies": {
-    "hugo": "0.115.0"
+    "hugo": "0.101.0"
   }
 }
